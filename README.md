@@ -4,10 +4,10 @@ A public repository of my commonly used personal hardware dev tools, notes, and 
 
 ## Table of Contents
 
-- [Resistors](passives/resistors.md)
-- [Capacitors](passives/capacitors.md)
-- [DFM Tools](pcb-development/dfm.md)
-- [Misc Tools](pcb-development/misc-tools.md)
+- [Resistors](https://github.com/pipeeeeees/hardware-cheatsheet/blob/main/passives/resistors.md)
+- [Capacitors](https://github.com/pipeeeeees/hardware-cheatsheet/blob/main/Passives/capacitors.md)
+- [PDM DFM](https://github.com/pipeeeeees/hardware-cheatsheet/blob/main/pcb-development/dfm.md)
+- [Misc Tools](https://github.com/pipeeeeees/hardware-cheatsheet/blob/main/pcb-development/misc-tools.md)
 
 ## News
 
