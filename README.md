@@ -13,4 +13,3 @@ A public repository of my commonly used personal hardware dev tools, notes, and 
 
 - [EDN - Voice of the Engineer](https://www.edn.com/)
 - [EE Times](https://www.eetimes.com/)
-- [Electronic Design](https://www.electronicdesign.com/)
