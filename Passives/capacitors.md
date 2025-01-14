@@ -13,9 +13,13 @@ Some characteristic features of ceramic capacitors are:
 
 Common uses of ceramic capacitors are line blocking, HF coupling, filtering, bypassing, etc.
 
-### Typical Manufacturers:
+### Typical Manufacturers
+
 - Murata
 - TDK
 - Samsung Electro-Mechanics
 - YAGEO
 
+### Tools
+
+- [Murata SimSurfing MLCCs](https://ds.murata.co.jp/simsurfing/mlcc.html?lcid=en-us&jis=false&md5=8563bc2881130716e80706003086241c)
